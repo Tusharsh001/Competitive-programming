@@ -13,3 +13,5 @@ In the problem i have created some cases such as
 
       
 Problem-B (https://codeforces.com/contest/2121/problem/B)
+In this problem need to be a bit greedy we want the charcter b as small as possible so it will be easy to split it.
+so in logic i have first compared the first character and the second character if they are same we can split it the first as a and second as b and rest as c but if this doesn't happen then we can check if any chracter repeat if so we can spilted the string from the first appearence of that charter before the a and after that c in my code i have compared first character seprately to be more precised 
