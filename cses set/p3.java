@@ -99,3 +99,8 @@ public class p3{
         }
        
       }
+//    idea 
+// the idea is that we will just move along the string and calculate the number of time a certain character repeats and 
+// if that perticular character stop reapeating we then copare the previous max that we have calculate with the 
+// count which the number of times that perticular character repeats and in the fashion we itrate over ever character 
+// and find the max occurance 
