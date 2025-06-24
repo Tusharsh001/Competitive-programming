@@ -18,3 +18,7 @@ public class p1 {
     }
     
 }
+//               <---------  trick ----->
+// this question is as simple as it seem but it has trick and that 
+// that instead of the int we have to use long data type beacuse some number might excceds the int limit and give a wrong 
+//output  but using long solve this problem and just follow the instruction given in the question 
