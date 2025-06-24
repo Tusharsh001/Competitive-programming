@@ -1,27 +1,19 @@
-
-import java.util.*;
-
-/* 
- writer:- Non_newtonian
-*/
-public class p2{
-
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Scanner;
+public class p2 {
     public static void main(String[] args) {
-    
-          int n=sc.nextInt();
-        int[] a=new int[n-1];
-        HashSet <Integer> set=new HashSet<>();
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        long  sum=0;
         for(int i=0;i<n-1;i++){
-            a[i]=sc.nextInt();
-            set.add(a[i]);
+            int num=sc.nextInt();
+              sum+=num;
         }
-          for(int i=1;i<=n;i++){
-        if(!set.contains(i)){
-            System.out.println(i);
-            break;
-        }
-          }
-          
-        }
-       
-      }
+         long total=(long)n*(n+1)/2;
+           System.out.println(total-sum);
+    }
+    
+}
+// this very simple problem in this problem we calculate the sum of the number upto n terms and the 
+// along with the sum of the given  number and then subtaract these two giving out the correct answer
