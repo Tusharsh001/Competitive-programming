@@ -2,3 +2,4 @@ In this folder i am going to upload different question i so for practice other t
 p1:-https://www.codechef.com/practice/course/tcs-nqt-questions/TCSNQTC/problems/TCSNQTCP03
 p2:-https://www.codechef.com/practice/course/tcs-nqt-questions/TCSNQTC/problems/TCSNQTCP04
 p3:- https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1?tab=statement
+p4:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/AVGPERM
