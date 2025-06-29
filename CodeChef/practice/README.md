@@ -3,3 +3,4 @@ p1:-https://www.codechef.com/practice/course/tcs-nqt-questions/TCSNQTC/problems/
 p2:-https://www.codechef.com/practice/course/tcs-nqt-questions/TCSNQTC/problems/TCSNQTCP04
 p3:- https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1?tab=statement
 p4:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/AVGPERM
+p5:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/HOTEL
