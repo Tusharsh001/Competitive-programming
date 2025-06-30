@@ -5,4 +5,6 @@ p3:- https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TANDJ1
 p4:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/AVGPERM
 p5:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/HOTEL
 p6:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MTYFRI
-p7:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/ARRHALVES
+p7:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/ARRHALVE
+p8:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/CHFHEIST?tab=statement
+
