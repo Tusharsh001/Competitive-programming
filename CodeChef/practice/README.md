@@ -6,5 +6,6 @@ p4:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500
 p5:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/HOTEL
 p6:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MTYFRI
 p7:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/ARRHALVE
-p8:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/CHFHEIST?tab=statement
+p8:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/CHFHEIST
+p9:-https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PMA
 
